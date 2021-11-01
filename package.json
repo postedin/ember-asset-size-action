@@ -1,6 +1,6 @@
 {
-  "name": "ember-asset-size-action",
-  "version": "0.0.0",
+  "name": "@postedin/ember-asset-size-action",
+  "version": "1.0.0",
   "private": true,
   "description": "Show asset size changes on ",
   "main": "index.js",
